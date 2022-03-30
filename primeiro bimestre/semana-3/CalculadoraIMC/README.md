@@ -6,9 +6,13 @@ Aplicação console para o cálculo do IMC.
 
 - Calcula e apresenta o IMC
 
+- Apresenta a sua classificação do IMC
+
+- Mostra quantos quilogramas está faltando ou excedendo de acordo com o peso normal
+
 ## Tecnologias utilizadas
 
-- dotnet 6
+- dotnet
 
 ## Como executar
 
