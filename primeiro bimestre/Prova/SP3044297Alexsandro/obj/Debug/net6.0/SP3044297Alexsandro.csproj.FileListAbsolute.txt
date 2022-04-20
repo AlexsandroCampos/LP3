@@ -1,0 +1,15 @@
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\bin\Debug\net6.0\SP3044297Alexsandro.exe
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\bin\Debug\net6.0\SP3044297Alexsandro.deps.json
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\bin\Debug\net6.0\SP3044297Alexsandro.runtimeconfig.json
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\bin\Debug\net6.0\SP3044297Alexsandro.dll
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\bin\Debug\net6.0\SP3044297Alexsandro.pdb
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.csproj.AssemblyReference.cache
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.dll
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\refint\SP3044297Alexsandro.dll
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.pdb
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\SP3044297Alexsandro.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Prova\SP3044297Alexsandro\obj\Debug\net6.0\ref\SP3044297Alexsandro.dll
