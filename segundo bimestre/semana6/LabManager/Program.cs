@@ -5,6 +5,7 @@ using LabManager.Repositories;
 var databaseSetup = new DatabaseSetup();
 
 var computerRepository = new ComputerRepository();
+var labRepository = new LabRepository();
 
 // Routing
 var modelName = args[0];
@@ -45,22 +46,14 @@ if (modelName == "Lab")
 {
     if (modelAction == "List")
     {
-        var connection = new SqliteConnection("Data Source=database.db");
-        connection.Open();
-
-        var command = connection.CreateCommand();
-        command.CommandText = "SELECT * FROM Lab;";
-
-         var reader = command.ExecuteReader();
-
-            while (reader.Read())
-            {
-                Console.WriteLine(
-                    "{0}, {1}, {2}", reader.GetInt32(0), reader.GetInt32(1), reader.GetString(2), reader.GetString(3)
+        foreach (var lab in  labRepository.getAll())
+        {
+            Console.WriteLine(
+                    "{0}, {1}, {2}, {3}", lab.Id, lab.Number, lab.Name, lab.Block
                     );
-            }
-        connection.Close();
+        }
     }
+
     if (modelAction == "New")
     {
         int id = Convert.ToInt32(args[2]);

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IFSP\\Documents\\LabManager\\LabManager\\LabManager.csproj": {}
+    "C:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\LP3\\segundo bimestre\\semana6\\LabManager\\LabManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IFSP\\Documents\\LabManager\\LabManager\\LabManager.csproj": {
+    "C:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\LP3\\segundo bimestre\\semana6\\LabManager\\LabManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IFSP\\Documents\\LabManager\\LabManager\\LabManager.csproj",
+        "projectUniqueName": "C:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\LP3\\segundo bimestre\\semana6\\LabManager\\LabManager.csproj",
         "projectName": "LabManager",
-        "projectPath": "C:\\Users\\IFSP\\Documents\\LabManager\\LabManager\\LabManager.csproj",
-        "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IFSP\\Documents\\LabManager\\LabManager\\obj\\",
+        "projectPath": "C:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\LP3\\segundo bimestre\\semana6\\LabManager\\LabManager.csproj",
+        "packagesPath": "C:\\Users\\alexs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\LP3\\segundo bimestre\\semana6\\LabManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
